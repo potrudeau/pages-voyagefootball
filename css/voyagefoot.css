@@ -1,0 +1,26 @@
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;  
+}
+
+#cityLogoLarge
+{
+  height:125px;
+}
+
+#cityLogoSmall
+{
+  height:75px;
+  padding-right:15px;
+}
+
+.container
+{
+  padding-bottom:25px;
+}
+
+h1 { font-size: 500%; }
+
+.fa {
+  padding-right:5px;
+  
+}
