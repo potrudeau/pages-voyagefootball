@@ -24,3 +24,8 @@ h1 { font-size: 500%; }
   padding-right:5px;
   
 }
+
+.covid {
+  text-align: center;
+  font-style: oblique;
+}
